@@ -1,0 +1,265 @@
+body{
+    background : #F6F6FA;
+    padding: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.separator{
+    color: #000;
+}
+ul, ol{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.wrapper {
+    background: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* Main Content */
+.main-content{
+    padding: 80px 40px 80px 88px;
+    box-sizing: border-box;
+}
+
+/* Sidebar styles */
+.sidebar{
+    background: #e0ebfe;
+    padding: 40px 0px 40px 0px;
+    box-sizing: border-box;
+    width: 370px;
+}
+.sidebar-content{
+    padding: 40px;
+    box-sizing: border-box;
+}
+.contacts-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: normal;
+    color: #161d2a;
+    margin: 0px 0px 8px 0px;
+}
+
+/* Contacts Styles */
+
+.contacts-type {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+    margin-right: 8px;
+}
+
+.contacts-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979ff;
+    text-decoration: underline;
+}
+
+.contacts-item{
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+.contacts-container{
+    margin-bottom: 40px;
+}
+
+
+/* Skills Container */
+
+.skills-container{
+    margin-bottom: 40px;
+}
+
+.skills-title{
+    font-weight: 700;
+    line-height: normal;
+    font-size: 22px;
+    color: #161d2a;
+    margin: 0px 0px 8px 0px;
+}
+
+.skills-list{
+    padding: 0px 0px 0px 20px;
+       
+}
+
+.skills-list-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+}
+
+/* Main Content */
+
+.my-profession {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.my-name {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+.about-me {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+.my-info{
+    margin-bottom: 40px;
+}
+
+/* My Projects Styles */
+.my-projects-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+
+.my-projects-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+.my-projects-list{
+    padding-left: 16px;
+}
+
+
+.my-proj-item-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;        
+    color: #005fff;
+}
+
+.my-projects-item-tech {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+.my-proj-container {
+    margin-bottom: 40px;
+
+}
+
+/* Work Experience */
+
+.work-experiance-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+.work-experiance-company {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom:12px;
+}
+.company-name {
+    color: #6d9bf5;
+}
+.work-exp-period{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-bottom: 8px;
+}
+.work-exp-dut-list{
+    padding-left: 16px;
+
+}
+.work-exp-dut-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;    
+}
+.work-exp-container {
+    margin-bottom: 12px;
+}
+
+/* Education */
+
+.education-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-top: 40px;        
+    margin-bottom: 8px;
+}
+
+.uni-name{
+    font-weight: 700;
+    font-size: 16px;
+    color: #6d9bf5;
+    margin-top: 0px;
+    margin-bottom:8px;
+}
+
+.degree {
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+    margin: 0px;
+}
+
+.uni-period {
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+    margin-bottom: 12px;
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
